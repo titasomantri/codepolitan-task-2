@@ -1,0 +1,17 @@
+h1 {
+    background-color: grey;
+    border: 2px solid navy;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    /*display: none;*/
+}
+
+span {
+    background-color: goldenrod;
+    border: 2px solid navy;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+}
