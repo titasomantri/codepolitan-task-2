@@ -34,7 +34,7 @@ Software: Browser (tanpa preferensi khusus), Text Editor (tanpa preferensi khusu
 Daftar Materi:
 
 Langkah Pertama Menguasai CSS
-Apa itu CSS
+Apa itu CSS?
 CSS itu luas, tapi Jangan Khawatir!
 Cara menggunakan CSS dengan Benar di HTML
 Mengenal Properti Color & Background Color
