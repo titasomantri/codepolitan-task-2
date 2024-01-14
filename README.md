@@ -34,14 +34,14 @@ Software: Browser (tanpa preferensi khusus), Text Editor (tanpa preferensi khusu
 Daftar Materi:
 
 Langkah Pertama Menguasai CSS
-Apa itu CSS	06:53
-CSS itu luas, tapi Jangan Khawatir!	05:33
-Cara menggunakan CSS dengan Benar di HTML	14:33
-Mengenal Properti Color & Background Color	08:29
-Sistem Warna - RGB dan Sistem Warna - Hexadesimal	05:10
-Jangan Lupa, Titik Koma!	02:29
-Mengenal Properti Text Pada Umumnya	17:39
-Mengenal Ukuran pada CSS dengan Font	05:06
+Apa itu CSS
+CSS itu luas, tapi Jangan Khawatir!
+Cara menggunakan CSS dengan Benar di HTML
+Mengenal Properti Color & Background Color
+Sistem Warna - RGB dan Sistem Warna - Hexadesimal
+Jangan Lupa, Titik Koma!
+Mengenal Properti Text Pada Umumnya
+Mengenal Ukuran pada CSS dengan Font
 Mengenal Apa itu Selector dan Cara Kerjanya di CSS
 Box Model CSS - Mengubah Ukuran Element dengan CSS
 Flexbox Dasar
